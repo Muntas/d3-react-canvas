@@ -291,7 +291,7 @@ class Lines extends Component {
       padding: 50,
       nrPoints: 20,
       iteration: 0,
-      increment: 0.1,
+      increment: 0.2,
       easing: easings[0]
     };
 
